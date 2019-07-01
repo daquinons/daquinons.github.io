@@ -34,21 +34,21 @@
   },
   "interests": [
     {
-      "name": "frontend development",
+      "name": "Frontend development",
       "keywords": [
         "React",
         "JavaScript"
       ]
     },
     {
-      "name": "backend development",
+      "name": "Backend development",
       "keywords": [
         "Express",
         "Node"
       ]
     },
     {
-      "name": "mobile development",
+      "name": "Mobile development",
       "keywords": [
         "iOS",
         "Swift"
@@ -83,6 +83,7 @@
     {
       "institution": "Lambda School",
       "area": "Full Stack Web Development",
+      "studyType": "Program",
       "startDate": "2019-04-21",
       "endDate": "Present",
       "gpa": "",
