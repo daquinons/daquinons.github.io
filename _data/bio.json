@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "David Quiñones",
-    "label": "Software Developer",
+    "label": "Full Stack Web Developer",
     "picture": "https://daquinons.github.io/images/david.jpg",
     "email": "dvdq@protonmail.com",
     "phone": "",
@@ -53,11 +53,13 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Python",
         "JavaScript",
         "React",
         "Node",
         "Express",
+        "Python",
+        "Django",
+        "SQL",
         "LESS",
         "CSS",
         "HTML"
