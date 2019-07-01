@@ -34,20 +34,24 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "frontend development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "React",
+        "JavaScript"
       ]
     },
     {
-      "name": "data mining",
+      "name": "backend development",
       "keywords": [
+        "Express",
+        "Node"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "mobile development",
       "keywords": [
+        "iOS",
+        "Swift"
       ]
     }
   ],
@@ -68,8 +72,8 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "macOS",
+        "Linux",
         "Git/GitHub",
         "Agile Development"
       ]
@@ -89,69 +93,72 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
+      "company": "Freelancing",
       "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "website": "",
+      "startDate": "2017-12-01",
+      "endDate": "2018-12-31",
+      "summary": "Supporting companies with development needs",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Maintain, update, and add new features using UI/UX design for mobile OS based on React Native"
       ]
     },
     {
-      "organization": "",
+      "company": "Silphco",
+      "position": "Founder and Researcher",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2016-10-01",
+      "endDate": "2017-10-01",
+      "summary": "Founder of my company, developing Python applications to interact with financial markets ",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Working and connecting with multiple exchanges",
+        "Researching new approaches using Machine Learning (Keras)"
+      ]
+    },
+    {
+      "company": "unu",
+      "position": "iOS Engineer",
+      "website": "https://www.unumotors.com",
+      "startDate": "2016-03-01",
+      "endDate": "2016-09-30",
+      "summary": "Began the iOS application, creating the first architecture where it would be based",
+      "highlights": [
+        "Internet of things app using Bluetooth technology"
+      ]
+    },
+    {
+      "company": "Recurse Center",
+      "position": "Recurser",
+      "website": "https://www.recurse.com",
+      "startDate": "2015-08-01",
+      "endDate": "2015-11-01",
+      "summary": "Spent 3 months learning and becoming a better programmer",
+      "highlights": [
+        "Focusing on learning and perfecting iOS development and Swift",
+        "Released a game called Elem",
+        "Created iOS library to interact with Yelp API"
+      ]
+    },
+    {
+      "company": "VibeWrite",
+      "position": "Lead Software Developer",
+      "website": "",
+      "startDate": "2013-11-01",
+      "endDate": "2015-04-01",
+      "summary": "Managed a team of 4 engineers",
+      "highlights": [
+        "Full responsability over our development and testing pipeline",
+        "Creation of research tools using Python and PyQT"
       ]
     }
   ],
+  "volunteer": [],
   "awards": [
     {
-      "title": "B+ Scholarship",
+      "title": "Product Hunt Maker",
       "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "Product Hunt",
+      "summary": "My projects have been featured in Product Hunt multiple times"
     }
   ],
   "references": [
