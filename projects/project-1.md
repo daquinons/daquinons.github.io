@@ -14,11 +14,9 @@ labels:
 summary: As a UI Architect I was responsible to create a landing page for the Niyon project.
 ---
 
-<div class="ui small rounded images">
-  <a href="../images/projects/niyon/niyon.png"><img class="ui image" src="../images/projects/niyon/niyon.png"></a>
-</div>
+<img class="ui image" src="{{ site.baseurl }}/images/projects/niyon/niyon.png">
 
-Techonologies used:
+Techonologies:
 - HTML
 - CSS
 - LESS

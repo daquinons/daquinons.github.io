@@ -13,9 +13,9 @@ labels:
 summary: A clone of the Instagram web app made with React.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/projects/instagram/instagram.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/projects/instagram/instagram.jpg">
 
-Technologies used:
+Technologies:
 - React
 - Styled Components
 - Bootstrap 4
