@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/projects/instagram/instagram-square.png
-title: React Instagram Clone
+title: Instagram Clone
 permalink: projects/instagram
 # All dates must be YYYY-MM-DD format!
 date: 2019-06-06
