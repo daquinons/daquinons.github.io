@@ -16,13 +16,20 @@ summary: A web tool to help researchers to keep track of articles and papers.
 
 <img class="ui image" src="{{ site.baseurl }}/images/projects/pintereach/pintereach.png">
 
-Technologies:
+<p>A web tool to help researchers to keep track of articles and papers</p>
+
+<p>Responsible for the whole UI design and architecture</p>
+
+<p>Using Redux and Thunk for state management</p>
+
+Built using:
 - React
 - Redux
+- Thunk
 - Bootstrap 4
 - Styled Components
 
 
 <a href="https://github.com/daquinons/pintereach-react"><i class="large github icon "></i>GitHub Repository</a>
-<p><a href="http://pintereach-react.netlify.com">Deployed version</a></p>
+<p><a href="http://pintereach-react.netlify.com"><i class="large world icon"></i>Deployed version</a></p>
 

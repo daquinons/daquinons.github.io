@@ -16,13 +16,16 @@ summary: As a UI Architect I was responsible to create a landing page for the Ni
 
 <img class="ui image" src="{{ site.baseurl }}/images/projects/niyon/niyon.png">
 
-Techonologies:
+<p>As a UI Architect I was responsible to create a landing page for the Niyon project</p>
+
+<p>Defined the UI style for the whole application</p>
+
+Built using:
 - HTML
 - CSS
 - LESS
 - jQuery
 
-You can learn more at the [repository](https://github.com/niyon-build-week/niyon-landing-page).
-
-
+<a href="https://github.com/niyon-build-week/niyon-landing-page"><i class="large github icon"></i>GitHub repository</a>
+<p><a href="/host/niyon/"><i class="large world icon"></i>Deployed version</a></p>
 
