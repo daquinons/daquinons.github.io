@@ -10,6 +10,7 @@ labels:
   - HTML
   - CSS
   - LESS
+  - jQuery
 summary: As a UI Architect I was responsible to create a landing page for the Niyon project.
 ---
 
@@ -21,6 +22,7 @@ Techonologies used:
 - HTML
 - CSS
 - LESS
+- jQuery
 
 You can learn more at the [repository](https://github.com/niyon-build-week/niyon-landing-page).
 
