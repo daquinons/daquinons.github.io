@@ -28,4 +28,5 @@ Built using:
 
 <a href="https://github.com/niyon-build-week/niyon-landing-page"><i class="large github icon"></i>GitHub repository</a>
 <p><a href="/host/niyon/"><i class="large world icon"></i>Deployed version</a></p>
-
+<br />
+<br />

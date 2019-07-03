@@ -28,3 +28,5 @@ Built using:
 
 <a href="https://github.com/daquinons/React-Insta-Clone"><i class="large github icon"></i>GitHub repository</a>
 <p><a href="https://david-react-insta.netlify.com"><i class="large world icon"></i>Deployed version</a></p>
+<br />
+<br />

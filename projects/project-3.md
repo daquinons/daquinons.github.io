@@ -31,5 +31,7 @@ Built using:
 
 
 <a href="https://github.com/daquinons/pintereach-react"><i class="large github icon "></i>GitHub Repository</a>
-<p><a href="http://pintereach-react.netlify.com"><i class="large world icon"></i>Deployed version</a></p>
+<p><a href="https://getpintereach.netlify.com"><i class="large world icon"></i>Deployed version</a></p>
+<br />
+<br />
 
