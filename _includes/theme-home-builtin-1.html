@@ -5,6 +5,25 @@
 {% assign num_essays = essay_pages.size %}
 {% assign num_projects = project_pages.size %}
 
+<style>
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .background {
+    position:
+      absolute;
+    display:
+      block;
+    top: 0;
+    left: 0;
+    z-index: 0;
+
+  }
+</style>
+<canvas class="background"></canvas>
 <div style="height: 100%; margin-top: -75px" class="ui middle aligned grid ">
 
   <div class="column">
@@ -60,3 +79,17 @@
   </div>
 
 </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/particlesjs/2.2.2/particles.min.js"></script>
+<script>
+  window.
+    onload
+    = function () {
+      Particles.
+        init
+        ({
+          selector:
+            '.background',
+          connectParticles: true
+        });
+    };
+</script>
