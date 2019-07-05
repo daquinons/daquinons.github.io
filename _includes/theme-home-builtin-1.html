@@ -89,7 +89,14 @@
         ({
           selector:
             '.background',
-          connectParticles: true
+          connectParticles: true,
+          responsive: [{
+            breakpoint: 800,
+            options: {
+              maxParticles: 80,
+              connectParticles: false
+            }
+          }]
         });
     };
 </script>
