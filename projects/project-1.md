@@ -13,6 +13,8 @@ labels:
   - jQuery
 summary: As a UI Architect I was responsible to create a landing page for the Niyon project.
 ---
+<a href="https://github.com/niyon-build-week/niyon-landing-page"><i class="large github icon"></i>GitHub repository</a>
+<p><a href="/host/niyon/"><i class="large world icon"></i>Deployed version</a></p>
 
 <img class="ui image" src="{{ site.baseurl }}/images/projects/niyon/niyon.png">
 
@@ -26,7 +28,5 @@ Built using:
 - LESS
 - jQuery
 
-<a href="https://github.com/niyon-build-week/niyon-landing-page"><i class="large github icon"></i>GitHub repository</a>
-<p><a href="/host/niyon/"><i class="large world icon"></i>Deployed version</a></p>
 <br />
 <br />

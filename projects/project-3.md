@@ -13,6 +13,8 @@ labels:
   - Styled Components
 summary: A web tool to help researchers to keep track of articles and papers.
 ---
+<a href="https://github.com/daquinons/pintereach-react"><i class="large github icon "></i>GitHub Repository</a>
+<p><a href="https://getpintereach.netlify.com"><i class="large world icon"></i>Deployed version</a></p>
 
 <img class="ui image" src="{{ site.baseurl }}/images/projects/pintereach/pintereach.png">
 
@@ -29,9 +31,6 @@ Built using:
 - Bootstrap 4
 - Styled Components
 
-
-<a href="https://github.com/daquinons/pintereach-react"><i class="large github icon "></i>GitHub Repository</a>
-<p><a href="https://getpintereach.netlify.com"><i class="large world icon"></i>Deployed version</a></p>
 <br />
 <br />
 
