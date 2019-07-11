@@ -17,11 +17,7 @@ summary: A clone of the Instagram web app made with React.
 
 <img class="ui image" src="{{ site.baseurl }}/images/projects/instagram/instagram.jpg">
 
-<p>A clone of the Instagram web app made with React</p>
-
-<p>Simulated login using Local Storage</p>
-
-<p>Simulated search and comments feature</p>
+<p>A clone of the Instagram web app made with React. It simulates a login flow using Local Storage and saving a token. There is a search feature whichs looks up for usernames and the possibility to write comments in each post.</p>
 
 Built using:
 - React

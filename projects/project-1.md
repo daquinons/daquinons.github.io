@@ -18,9 +18,7 @@ summary: As a UI Architect I was responsible to create a landing page for the Ni
 
 <img class="ui image" src="{{ site.baseurl }}/images/projects/niyon/niyon.png">
 
-<p>As a UI Architect I was responsible to create a landing page for the Niyon project</p>
-
-<p>Defined the UI style for the whole application</p>
+<p>As a UI Architect I was responsible to create a landing page for the Niyon project, its style defined the UI look for the whole application. I also wrote the whole copy text from a Marketing point of view.</p>
 
 Built using:
 - HTML

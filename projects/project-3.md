@@ -18,11 +18,7 @@ summary: A web tool to help researchers to keep track of articles and papers.
 
 <img class="ui image" src="{{ site.baseurl }}/images/projects/pintereach/pintereach.png">
 
-<p>A web tool to help researchers to keep track of articles and papers</p>
-
-<p>Responsible for the whole UI design and architecture</p>
-
-<p>Using Redux and Thunk for state management</p>
+<p>Pintereach is a web tool to help researchers to keep track of articles and papers. You can create multiple boards for different topics and keep your urls organized. I was responsible for the whole UI design and architecture of the React app, using Redux and Thunk for state management.</p>
 
 Built using:
 - React
