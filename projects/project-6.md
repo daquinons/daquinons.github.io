@@ -19,7 +19,7 @@ summary: A customer and resource management tool
 <p><a href="https://5d8e1ebe572fc40008e829e8--tieme-ndo.netlify.com/"><i class="large world icon"></i>Deployed version - username: testuser, password: linkedinguest</a></p>
 
 <img class="ui image" src="{{ site.baseurl }}/images/projects/tiemendo/tiemendo.png">
-<p>Tieme-Ndo is an organization that works with farmers in Ghana. From the beginning we had to work closely with the stakeholder to understand their reality and needs in their day to day. Our focus was to simplify their processes and unify all the different paper forms they had. We also had to improve their accountability and make easier to track their customers.</p>
+<p>Tieme-Ndo is an organization that works with farmers in Ghana. From the beginning we had to work closely with the stakeholder to understand their reality and needs in their day to day. Our focus was to simplify their processes and unify all the different paper forms they had. We also had to improve their accountability and make to track their customers easier.</p>
 
 Built using:
 - Node.js
