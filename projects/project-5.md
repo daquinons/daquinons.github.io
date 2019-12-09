@@ -13,6 +13,7 @@ labels:
   - UI
 summary: The most beautiful Pomodoro Timer
 ---
+<a href="https://github.com/daquinons/pamidor"><i class="large github icon "></i>GitHub Repository</a>
 <p><a href="https://gum.co/pamidor"><i class="large world icon"></i>Buy it now</a></p>
 
 <img class="ui image" src="{{ site.baseurl }}/images/projects/pamidor/pamidor.png">
