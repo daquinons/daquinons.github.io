@@ -11,7 +11,7 @@ labels:
   - Redux
   - Bootstrap 4
   - Styled Components
-summary: A web tool to help researchers to keep track of articles and papers.
+summary: A web tool to help researchers to keep track of articles and papers
 ---
 <a href="https://github.com/daquinons/pintereach-react"><i class="large github icon "></i>GitHub Repository</a>
 <p><a href="https://getpintereach.netlify.com"><i class="large world icon"></i>Deployed version</a></p>
@@ -29,4 +29,3 @@ Built using:
 
 <br />
 <br />
-

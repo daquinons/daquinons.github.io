@@ -10,7 +10,7 @@ labels:
   - Node.js
   - Express
   - SQL
-summary: REST API to save your favourite restaurants.
+summary: REST API to save your favourite restaurants
 ---
 <a href="https://github.com/daquinons/foodiefun-express-backend"><i class="large github icon "></i>GitHub Repository</a>
 <p><a href="http://foodiefun-api.herokuapp.com/api/"><i class="large world icon"></i>Deployed version</a></p>
