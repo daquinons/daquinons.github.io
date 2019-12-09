@@ -34,6 +34,9 @@
   },
   "interests": [
     {
+      "name": "Startups"
+    },
+    {
       "name": "Frontend development",
       "keywords": [
         "React",
@@ -45,7 +48,7 @@
       "name": "Backend development",
       "keywords": [
         "Express",
-        "Node"
+        "Node.js"
       ]
     }
   ],
@@ -57,14 +60,9 @@
         "JavaScript",
         "React",
         "Redux",
-        "Node",
+        "Node.js",
         "Express",
-        "Python",
-        "Django",
-        "SQL",
-        "LESS",
-        "CSS",
-        "HTML"
+        "Python"
       ]
     },
     {
@@ -73,8 +71,8 @@
       "keywords": [
         "macOS",
         "Linux",
-        "Git/GitHub",
-        "Agile Development"
+        "Git",
+        "Agile"
       ]
     }
   ],
@@ -83,23 +81,34 @@
       "institution": "Lambda School",
       "area": "Full Stack Web Development and Computer Science",
       "studyType": "Program",
-      "startDate": "2019-04-21",
-      "endDate": "Present",
+      "startDate": "2019-04",
+      "endDate": "2019-12",
       "gpa": "",
       "courses": [
       ]
+    },
+    {
+      "institution": "University of Zaragoza",
+      "area": "Business Administration and Internet Marketing",
+      "studyType": "Degree",
+      "startDate": "2008",
+      "endDate": "2012",
+      "gpa": "",
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "Freelancing",
+      "company": "Freelancing for clients",
       "position": "Software Developer",
       "website": "",
       "startDate": "2017-12-01",
-      "endDate": "2018-12-31",
+      "endDate": "Present",
       "summary": "Supporting companies with development needs",
       "highlights": [
-        "Maintain, update, and add new features using UI/UX design for mobile OS based on React Native"
+        "Worked for a hardware startup which is creating a custom launcher for Android using React Native.",
+        "Implemented their design system.",
+        "Developed a CRM for a non-profit using React and Express.js."
       ]
     },
     {
@@ -110,8 +119,9 @@
       "endDate": "2017-10-01",
       "summary": "Founder of my company, developing Python applications to interact with financial markets ",
       "highlights": [
-        "Working and connecting with multiple exchanges",
-        "Researching new approaches using Machine Learning (Keras)"
+        "Developed Python applications to interact with financial markets.",
+        "Interacted with multiple exchanges using APIs.",
+        "Researched for new financial approaches using Machine Learning (Keras)."
       ]
     },
     {
@@ -120,9 +130,10 @@
       "website": "https://www.unumotors.com",
       "startDate": "2016-03-01",
       "endDate": "2016-09-30",
-      "summary": "Began the iOS application, creating the first architecture where it would be based",
+      "summary": "Built the barebones of the iOS app using Swift.",
       "highlights": [
-        "Internet of things app using Bluetooth technology"
+        "Designed the app using Service Oriented Architecture.",
+        "Connected with first prototype using Bluetooth technology."
       ]
     },
     {
@@ -144,10 +155,11 @@
       "website": "",
       "startDate": "2013-11-01",
       "endDate": "2015-04-01",
-      "summary": "Managed a team of 4 engineers",
+      "summary": "Was one of the first hires at the company as intern.",
       "highlights": [
-        "Full responsability over our development and testing pipeline",
-        "Creation of research tools using Python and PyQT"
+        "Created data analysis tools using Python and PyQT.",
+        "Managed a team of 4 developers using Agile practices.",
+        "Set up testing infrastructure using Jenkins."
       ]
     }
   ],
