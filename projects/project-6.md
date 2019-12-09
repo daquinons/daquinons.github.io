@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/projects/api/api-image.png
-title: FoodieFun API
-permalink: projects/foodiefun
+image: images/projects/tiemendo/tiemendo.png
+title: Tieme-Ndo
+permalink: projects/tiemendo
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-01
 labels:
