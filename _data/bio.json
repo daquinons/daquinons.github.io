@@ -99,11 +99,23 @@
   ],
   "work": [
     {
+      "company": "Red Hat",
+      "position": "Senior Systems Design Engineer",
+      "website": "https://www.redhat.com",
+      "startDate": "2020-01-20",
+      "endDate": "Present",
+      "summary": "Full Stack Engineer working with Django and React",
+      "highlights": [
+        "Created a pipeline to automate the translation for course subtitles.",
+        "Implemented infrastructure to open up the LMS platform to external partners."
+      ]
+    },
+    {
       "company": "Freelancing for clients",
       "position": "Software Developer",
       "website": "",
       "startDate": "2017-12-01",
-      "endDate": "Present",
+      "endDate": "2019-12-01",
       "summary": "Supporting companies with development needs",
       "highlights": [
         "Worked for a hardware startup which is creating a custom launcher for Android using React Native.",
